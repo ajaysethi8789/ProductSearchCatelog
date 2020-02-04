@@ -1,6 +1,11 @@
 # ProductSearchCatelog
 
-Here are the API's details      1. http://localhost:8081/api/addProductDetail
+API's details     
+
+1. http://localhost:8081/api/addProductDetail
+2. http://localhost:8081/api/getProductDetailsByBrand/HIGHLANDER
+3. http://localhost:8081/api/getProductDetailsBySeller/FlashStarCommerce
+
 Request Json to add product details:
 {
 	"productId":"product001",
@@ -14,6 +19,3 @@ Request Json to add product details:
 	"distress":"Clean Look",
 	"sellerName":"FlashStar Commerce"
 }
-
-2. http://localhost:8081/api/getProductDetailsByBrand/HIGHLANDER
-3. http://localhost:8081/api/getProductDetailsBySeller/FlashStarCommerce
