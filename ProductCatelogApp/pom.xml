@@ -12,7 +12,7 @@
 	<artifactId>ProductCatelogApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ProductCatelogApp</name>
-	<description>ProductCatelogApp</description>
+	<description>ProductCatelogApp by Ajay</description>
 
 	<properties>
 		<java.version>1.8</java.version>
